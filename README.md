@@ -1,6 +1,7 @@
 # websiteBasedOnNode
 
-## npm i express moment jade mongoose
+## 安装依赖
+npm i
 ## 测试
 ```
 node app.js  // server strated on port 3000
